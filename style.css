@@ -70,7 +70,7 @@ div.navigation p:after {
 }
 
 div.navigation p::before {
-    content: '</';
+    content: '<';
     color: grey;
     top: -2px;
     left: -30px;
@@ -78,7 +78,7 @@ div.navigation p::before {
 }
 
 div.navigation p::after {
-    content: '>';
+    content: '/>';
     color: grey;
     top: -2px;
     right: -25px;
